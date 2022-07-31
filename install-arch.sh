@@ -1,5 +1,5 @@
 #!/bin/bash
-
+sudo pacman -S unzip
 #install and clone qtile config
 sudo pacman -S qtile
 rm -r ~/.config/qtile
