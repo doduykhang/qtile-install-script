@@ -16,4 +16,7 @@ rm -r ~/.config/wallpapers
 git clone https://github.com/doduykhang/wallpapers.git ~/.config/wallpapers/
 nitrogen --set-auto ~/.config/wallpapers/sakura.jpg
 
+#picom
+sudo pacman -S picom 
+
 
